@@ -1,5 +1,13 @@
 # AngularApp
 
+![Demo image](./DemoImage.png)
+
+Video Tutorial
+https://www.youtube.com/watch?v=G0bBLvWXBvc
+
+GitHub repo
+https://github.com/fireship-io/angular-tic-tac-toe
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
